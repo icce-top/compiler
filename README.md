@@ -1,5 +1,6 @@
 # compiler
 # 编译原理的一些实验，vs工程项目
+  ![编译原理](http://www.icce.top/wp-content/uploads/2020/07/2222.png)
   参考网易云课堂中科院编译原理课程以及虎书，具体心得记录请见网站icce-top  [点击跳转](http://www.icce.top/?p=3814&preview_id=3814)   
 ## 相关文件说明
   仓库文件均为vs2013下工程项目文件，可以在vs2013中点击直接导入。  
